@@ -25,10 +25,10 @@
 <br/>
 
 
-- 🔭  I’m currently working on [CookSpace](https://cookspace.co) as a Software Developer
+- 🔭  I’m currently working on [Munchies](https://munchies.com.bd/) as a Software Developer
 - 🏫  Studying CSE in  [American International University-Bangladesh (AIUB)](https://aiub.edu)
 - 🌱  I’m currently learning Flutter and Node.JS(TypeScript).
-- 💬  Ask me about Flutter or any tech related stuff.
+- 💬  Ask me about Flutter, Nodejs or any tech related stuff.
 - 📫  How to reach me: [Facebook - @imSaharukh](https://fb.com/imSaharukh) , [telegram - @imSaharukh](https://t.me/imSaharukh)
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I don't watch movies.
