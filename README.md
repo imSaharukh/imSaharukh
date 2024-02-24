@@ -25,11 +25,12 @@
 <br/>
 
 
-- 🔭  I’m currently working on [Munchies](https://munchies.com.bd/) as a Software Developer
-- 🏫  Studying CSE in  [American International University-Bangladesh (AIUB)](https://aiub.edu)
-- 🌱  I’m currently learning Flutter and Node.JS(TypeScript).
-- 💬  Ask me about Flutter, Nodejs or any tech related stuff.
-- 📫  How to reach me: [Facebook - @imSaharukh](https://fb.com/imSaharukh) , [telegram - @imSaharukh](https://t.me/imSaharukh)
+- 🔭  I’m currently working as a Technical Advisor at [Munchies](https://munchies.com.bd/) after transitioning from my role as a Lead Software Engineer.
+- 🏫  Pursuing Master of Computing at [Curtin University](https://www.curtin.edu.au/).
+- 🎓  Completed Bachelor of Science in Computer Science and Engineering (BSc CSE) at [American International University-Bangladesh (AIUB)](https://aiub.edu).
+- 🌱  I’m currently learning Flutter and Node.JS (TypeScript).
+- 💬  Ask me about Flutter, Node.js, or any tech-related stuff.
+- 📫  How to reach me: [Facebook - @imSaharukh](https://fb.com/imSaharukh), [Telegram - @imSaharukh](https://t.me/imSaharukh)
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I don't watch movies.
 
